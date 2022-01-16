@@ -1,1 +1,3 @@
 file pertama yang dibuat dengan git bash
+
+edit pada baris kedua
